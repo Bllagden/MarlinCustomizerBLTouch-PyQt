@@ -41,7 +41,7 @@ accurately measure the tilt of the table surface.**
 
 
 2. To configure `.ui` files in `.py` files, you need use
-   `pyuic6 -x file.ui -o file.py`.
+   `pyuic6 -x file.ui -o file.py`
 
 
 3. To create an executable file (exe), you need to use
