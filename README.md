@@ -1,4 +1,4 @@
-# Marlin Firmware Converter for using BLTouch
+# Marlin Firmware Customizer for using BLTouch
 
 > **Marlin - open source firmware for 3D-printers based on the Arduino platform.**
 
@@ -7,10 +7,10 @@ accurately measure the tilt of the table surface.**
 >
 > ![](documentation_images/bltouch.png)
 
-> **Converter configures the Marlin firmware `Configuration.h` file to add
+> **Customizer configures the Marlin firmware `Configuration.h` file to add
 > BLTouch support. You can also apply the settings for the limit switch. The
-> converter works on the principle of commenting, uncommenting and editing lines
-> in `Configuration.h`. Default values of converter for TEVO Black Widow
+> customizer works on the principle of commenting, uncommenting and editing lines
+> in `Configuration.h`. Default values of customizer for TEVO Black Widow
 > 3D-printer.**
 
 ## Screenshots
