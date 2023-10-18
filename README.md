@@ -4,36 +4,40 @@
 
 > **BLTouch - automatic table alignment sensor for 3D printers, which can
 accurately measure the tilt of the table surface.**
->
-> ![](documentation_images/bltouch.png)
+
+![](documentation_images/bltouch.png)
 
 > **Customizer configures the Marlin firmware `Configuration.h` file to add
 > BLTouch support. You can also apply the settings for the limit switch. The
-> customizer works on the principle of commenting, uncommenting and editing lines
+> customizer works on the principle of commenting, uncommenting and editing
+lines
 > in `Configuration.h`. Default values of customizer for TEVO Black Widow
 > 3D-printer.**
 
 ## Screenshots
 
 > ### Main Window: Firmware Not Selected
-> ![](documentation_images/main_win_not_ready.png)
+![](documentation_images/main_win_not_ready.png)
+##
 
 > ### Main Window: Firmware Selected
-> ![](documentation_images/main_win_ready.png)
+![](documentation_images/main_win_ready.png)
+##
 
 > ### Settings Window: BLTouch
-> ![](documentation_images/bltouch_win.png)
+![](documentation_images/bltouch_win.png)
+##
 
 > ### Settings Window: Limit Switch
-> ![](documentation_images/limit_switch_win.png)
+![](documentation_images/limit_switch_win.png)
+##
 
 > ### Qt Designer
 > All windows are designed in Qt Designer. From there, .ui files are exported
 > and then translated into .py files. The logic for windows is written in
-> separate
-> classes.
->
-> ![](documentation_images/qt_designer.jpg)
+> separate classes.
+
+![](documentation_images/qt_designer.jpg)
 
 ## Settings
 
